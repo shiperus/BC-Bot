@@ -8,7 +8,6 @@ from discord.ext import commands
 
 #a = 20
 #print(a)
-botId = '378943334934380546'
 bot = commands.Bot(command_prefix='ggz!', description='testing bot ggz')
 
 
