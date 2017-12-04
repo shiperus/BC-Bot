@@ -33,6 +33,3 @@ async def on_message(message):
     print(message)
     print(message.author.id)
     await bot.send_message(message.channel, 'RIP')
-
-bot.run('Mzc4OTQzMzM0OTM0MzgwNTQ2.DOi2GQ.9y1XaiEXeQdH5JAD51CCe89KztI')
-
